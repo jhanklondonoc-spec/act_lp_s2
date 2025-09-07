@@ -1,7 +1,7 @@
 package com.example;
 
 public class Ejercicio4 {
-    public static void ejercicio4() {
+    public static void main(String[] args){
         System.out.println("Ejercicio 4");
         // tu código aquí
         final double PI = 3.14159;
